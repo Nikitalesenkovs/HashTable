@@ -1,3 +1,4 @@
+#Nikita Lesenkovs 231RDB359 8.GR.
 class HashTable:
     def __init__(self):
         self.size = 1000
@@ -54,7 +55,6 @@ def phone_book_manager(queries):
 
     return results
 
-# Example usage
 queries = [
     "add 911 police",
     "add 76213 Mom",
